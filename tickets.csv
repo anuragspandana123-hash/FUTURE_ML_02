@@ -1,0 +1,9 @@
+ticket,category,priority
+Payment failed but money deducted,Billing,High
+App crashes when opening,Technical,High
+Unable to login to account,Account,High
+How to cancel my subscription,Billing,Low
+Need dark mode feature,General,Low
+Refund not received,Billing,High
+Website loading slow,Technical,Medium
+I want to change password,Account,Medium
